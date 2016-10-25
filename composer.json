@@ -1,7 +1,7 @@
 {
-    "name": "cloudconvert/cloudconvert-php",
+    "name": "superkruger/cloudconvert-php",
     "description": "PHP Wrapper for CloudConvert APIs",
-    "homepage": "https://github.com/cloudconvert/cloudconvert-php",
+    "homepage": "https://github.com/superkruger/cloudconvert-php",
     "authors": [
         {
             "name": "Josias Montag",
